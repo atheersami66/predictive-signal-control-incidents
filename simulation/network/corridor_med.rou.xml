@@ -1,0 +1,4 @@
+<routes>
+  <flow id="arteryEB" begin="0" end="3000" from="left1A1" to="D1right1" vehsPerHour="700" departLane="best" departSpeed="max"/>
+  <flow id="arteryWB" begin="0" end="3000" from="right1D1" to="A1left1" vehsPerHour="400" departLane="best" departSpeed="max"/>
+</routes>
